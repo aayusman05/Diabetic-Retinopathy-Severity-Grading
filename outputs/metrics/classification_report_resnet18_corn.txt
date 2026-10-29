@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       271
+           1       0.58      0.50      0.54        56
+           2       0.75      0.86      0.80       150
+           3       0.64      0.48      0.55        29
+           4       0.67      0.55      0.60        44
+
+    accuracy                           0.83       550
+   macro avg       0.72      0.67      0.69       550
+weighted avg       0.83      0.83      0.83       550
+Accuracy: 0.8327
+Macro-F1: 0.6915
+Quadratic QWK: 0.8947
