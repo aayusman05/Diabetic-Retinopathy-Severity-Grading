@@ -1,0 +1,18 @@
+# Local datasets and generated model artifacts
+data/train_images/
+outputs/
+
+# Python and macOS files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local environments and tooling
+.venv/
+venv/
+env/
+.vscode/
+.pytest_cache/
+
+# Explainability scratch output
+cam_outputs/
